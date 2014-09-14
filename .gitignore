@@ -1,0 +1,6 @@
+*.o
+*~
+*.swp
+*.exe
+test.exe
+
